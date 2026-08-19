@@ -1,3 +1,15 @@
-# simple_number_guessing_game
-thats my first python game created by python and tkinter
-Enjoy ._. <3
+# Number Guessing Game
+
+My first GUI game made with Python and Tkinter.
+
+## Features
+
+- Random number generation
+- Guessing system
+- Points
+- Tries counter
+- Best score
+- Input validation
+## Enjoy ❤️
+
+Thanks for checking out my project!
